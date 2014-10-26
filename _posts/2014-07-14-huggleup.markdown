@@ -1,0 +1,20 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-14
+img: huggleup.png
+alt: image-alt
+project-date: July 2014
+client: <a href="http://huggleup.com">DK Apps</a>
+category: iOS Apps
+description: HuggleUp is the No.1 printing app, offering: 
+
+•	Instagram, Facebook and Camera Roll Printing
+•	Polaroid Prints
+•	Square Prints
+•	Photo Fridge Magnets 
+•	High-Quality Framed Prints 
+•	FREE Worldwide Delivery
+ Check it out <a href="https://itunes.apple.com/gb/app/huggleup-photo-prints/id704516908?mt=8">here</a>.
+
+---
