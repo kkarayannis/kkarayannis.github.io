@@ -18,14 +18,16 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "././mail/contact_me.php",
+                url: "http://forms.brace.io/konstadinos@karayannis.com",
                 type: "POST",
                 data: {
+                    _replyto: email,
                     name: name,
                     phone: phone,
                     email: email,
                     message: message
                 },
+                dataType: "json",
                 cache: false,
                 success: function() {
                     // Success message

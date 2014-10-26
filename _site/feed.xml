@@ -5,9 +5,35 @@
     <description>Homepage of Konstadinos Karayannis, iOS Developer. Makes quality iOS apps with carefully considered user experiences.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 26 Oct 2014 10:10:12 +0000</pubDate>
-    <lastBuildDate>Sun, 26 Oct 2014 10:10:12 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Oct 2014 17:27:01 +0000</pubDate>
+    <lastBuildDate>Sun, 26 Oct 2014 17:27:01 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Photo Flashback</title>
+        <description>
+</description>
+        <pubDate>Thu, 16 Oct 2014 00:00:00 +0100</pubDate>
+        <link>/ios%20apps/2014/10/16/photo-flashback/</link>
+        <guid isPermaLink="true">/ios%20apps/2014/10/16/photo-flashback/</guid>
+        
+        
+        <category>ios apps</category>
+        
+      </item>
+    
+      <item>
+        <title>Huggleup</title>
+        <description>
+</description>
+        <pubDate>Mon, 14 Jul 2014 00:00:00 +0100</pubDate>
+        <link>/ios%20apps/2014/07/14/huggleup/</link>
+        <guid isPermaLink="true">/ios%20apps/2014/07/14/huggleup/</guid>
+        
+        
+        <category>ios apps</category>
+        
+      </item>
     
       <item>
         <title>Cardasee</title>
