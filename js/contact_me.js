@@ -21,11 +21,13 @@ $(function() {
                 url: "http://forms.brace.io/konstadinos@karayannis.com",
                 type: "POST",
                 data: {
+                    _replyto: email,
                     name: name,
                     phone: phone,
                     email: email,
                     message: message
                 },
+                dataType: "json",
                 cache: false,
                 success: function() {
                     // Success message
