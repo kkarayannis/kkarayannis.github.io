@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Konstadinos Karayannis</title>
+    <description>Homepage of Konstadinos Karayannis, iOS Developer. Makes quality iOS apps with carefully considered user experiences.</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 26 Oct 2014 10:10:12 +0000</pubDate>
+    <lastBuildDate>Sun, 26 Oct 2014 10:10:12 +0000</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Cardasee</title>
+        <description>
+</description>
+        <pubDate>Sun, 18 May 2014 00:00:00 +0100</pubDate>
+        <link>/ios%20apps/2014/05/18/cardasee/</link>
+        <guid isPermaLink="true">/ios%20apps/2014/05/18/cardasee/</guid>
+        
+        
+        <category>ios apps</category>
+        
+      </item>
+    
+  </channel>
+</rss>

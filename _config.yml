@@ -1,0 +1,31 @@
+# Site settings
+title: Konstadinos Karayannis
+email: konstadinos@karayannis.com
+description: "Homepage of Konstadinos Karayannis, iOS Developer. Makes quality iOS apps with carefully considered user experiences."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: http://linkedin.karayannis.com
+  - title: github
+    url: https://github.com/kkarayannis
+  - title: stack-overflow
+    url: http://stackoverflow.com/users/3265861/kkarayannis
+  - title: twitter
+    url: http://twitter.com/kkarayannis
+  # - title: 500px
+  #   url: https://500px.com/kkarayannis
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: London, UK
+
+# Build settings
+markdown: kramdown
+permalink: pretty

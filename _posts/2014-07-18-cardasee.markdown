@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2014-05-18
+img: cardasee.png
+alt: image-alt
+project-date: May 2014
+client: <a href="http://dkapps.co">DK Apps</a>
+category: iOS Apps
+description: Cardasee is modern reimagining of the classic sticky note for your iPhone. Think of your notes as a deck of cards instead of endless lists. Peacefully flick through them with gesturesand enjoy the smooth animations of Cardasee. Check it out <a href="http://getcardasee.dkapps.co">here</a>.
+
+---
