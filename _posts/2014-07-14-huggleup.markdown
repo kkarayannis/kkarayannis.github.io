@@ -5,7 +5,7 @@ date: 2014-07-14
 img: huggleup.png
 alt: image-alt
 project-date: July 2014
-client: <a href="http://huggleup.com">DK Apps</a>
+client: <a href="http://huggleup.com">Huggleup</a>
 category: iOS Apps
 description: Print photos from your iPhone and send them anywhere in the world.
  Check it out <a href="https://itunes.apple.com/gb/app/huggleup-photo-prints/id704516908?mt=8">here</a>.
