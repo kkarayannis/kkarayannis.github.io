@@ -1,6 +1,6 @@
 # main text of home
 name: Konstantinos Karagiannis
-bio: iOS Developer
+bio: Senior Software Developer
 
 # twitter summary info
 #description: A blog about technology and stuff related
@@ -35,7 +35,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: kkarayannis
+# twitter: kkarayannis
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -51,7 +51,7 @@ stackoverflow: 3265861/kkarayannis
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: kkarayannis@gmail.com
+email: konstadinos@karayannis.com
 
 # authors:
 #     johndoe:
